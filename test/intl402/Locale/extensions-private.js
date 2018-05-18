@@ -31,6 +31,8 @@ info: |
     ...
 
 features: [Intl.Locale]
+locale:
+    tags: [x-default]
 ---*/
 
 const loc = new Intl.Locale("x-default", {

@@ -31,6 +31,8 @@ info: |
     ...
 
 features: [Intl.Locale]
+locale:
+  tags: [i-default, en-gb-oed, cel-gaulish, art-lojban]
 ---*/
 
 const testData = [
